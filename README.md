@@ -1,4 +1,3 @@
- Hola, mi nombre es Hernán Galletti 
 ### Data Scientist
 
 ¡Hola! Soy Hernán, un matemático que le encanta la programación y todo lo relacionado al análisis de datos.
