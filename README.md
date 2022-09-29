@@ -8,6 +8,11 @@ Es por esto que hace un tiempo estoy formándome en ciencia de datos ya que me p
 
 Tengo conocimientos en programación en R, Python (Pandas, Numpy, mathplotlib, etc.) y SQL. También uso frecuentemente Excel, Power Bi, Linux y algunas cosas más. Estoy buscando mi primera experiencia laboral como Data Scientist.
 
+### Algunos proyectos en los que estoy o estuve trabajando:
+
+https://github.com/HGalletti/Album-de-figuritas (Simulación con R)
+https://github.com/HGalletti/Reservas_hoteleras (Data analytics con Power Bi)
+
 ### Puedes encontrarme en:
 
 [Linkedin](https://www.linkedin.com/in/hern%C3%A1n-galletti/)
