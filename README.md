@@ -11,6 +11,7 @@ Tengo conocimientos en programación en R, Python (Pandas, Numpy, mathplotlib, e
 ### Algunos proyectos en los que estoy o estuve trabajando:
 
 https://github.com/HGalletti/Album-de-figuritas (Simulación con R)
+
 https://github.com/HGalletti/Reservas_hoteleras (Data analytics con Power Bi)
 
 ### Puedes encontrarme en:
