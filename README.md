@@ -1,19 +1,15 @@
 ### Data Scientist
 
-¡Hola! Soy Hernán, un matemático que le encanta la programación y todo lo relacionado al análisis de datos.
+Hi! My name is Hernan. I am a mathematician and I have been teaching at the university for several years. I love programming, statistics and artificial intelligence. I am training in data science, since this discipline allows me to combine all these things, and I find it very interesting. I am looking for my first work experience in this area.
 
-Estudié la licenciatura en matemática y en física y trabajé muchos años de docente universitario de estudiantes de distintas carreras. Luego de recibirme, comencé el doctorado y me di cuenta que lo que quería era aplicar la matemática en el mundo real en lugar de seguir estudiando la teoría.
+I have programming knowledge in R, Python (Pandas, Numpy, mathplotlib, etc.) and SQL. I also use Power Bi and Excel at an advanced level.
 
-Es por esto que hace un tiempo estoy formándome en ciencia de datos ya que me permite combinar mi profesión con otros de mis intereses como son la inteligencia artificial, estadística y programación.
+### Some projects I am or have been working on (in spanish for the moment):
 
-Tengo conocimientos en programación en R, Python (Pandas, Numpy, mathplotlib, etc.) y SQL. También uso frecuentemente Excel, Power Bi, Linux y algunas cosas más. Estoy buscando mi primera experiencia laboral como Data Scientist.
+https://github.com/HGalletti/Album-de-figuritas (Simulation with R)
 
-### Algunos proyectos en los que estoy o estuve trabajando:
+https://github.com/HGalletti/Reservas_hoteleras (Data analytics and visualization with Power Bi)
 
-https://github.com/HGalletti/Album-de-figuritas (Simulación con R)
-
-https://github.com/HGalletti/Reservas_hoteleras (Data analytics con Power Bi)
-
-### Puedes encontrarme en:
+### You can follow me on:
 
 [Linkedin](https://www.linkedin.com/in/hern%C3%A1n-galletti/)
