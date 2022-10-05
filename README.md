@@ -4,7 +4,7 @@ Hi! My name is Hernan. I am a mathematician and I have been teaching at the univ
 
 I have programming knowledge in R, Python (Pandas, Numpy, mathplotlib, etc.) and SQL. I also use Power Bi and Excel at an advanced level.
 
-### Some projects I am or have been working on (in spanish for the moment):
+### Some projects I am or I have been working on (in spanish for the moment):
 
 https://github.com/HGalletti/Album-de-figuritas (Simulation with R)
 
