@@ -1,8 +1,8 @@
 ### Data Scientist
+Hi! I am a mathematician oriented to programming, statistics and artificial intelligence. I am training in data science, since this discipline allows me to combine all these things and solve real problems with tools that I learned in my training. I am especially interested in the insurance sector and the financial sector, as I have knowledge in investments, risks and some metrics and models used in financial risk and portfolios analysis .
+I am looking for my first work experience solving business problems with these tools.
 
-Hi! My name is Hernan. I am a mathematician and I have been teaching at the university for several years. I love programming, statistics and artificial intelligence. I am training in data science, since this discipline allows me to combine all these things, and I find it very interesting. I am looking for my first work experience in this area.
-
-I have programming knowledge in R, Python (Pandas, Numpy, mathplotlib, etc.) and SQL. I also use Power Bi and Excel at an advanced level.
+I know intermediate programming in R, Python (Pandas, Numpy, Mathplotlib, Scikit-learn, Seaborn, etc.), and experience querying SQL databases. I also handle Power Bi and Excel at an advanced level.
 
 ### Some projects I am or I have been working on (in spanish for the moment):
 
