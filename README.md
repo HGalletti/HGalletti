@@ -6,9 +6,11 @@ I know intermediate programming in R, Python (Pandas, Numpy, Mathplotlib, Scikit
 
 ### Some projects I am or I have been working on (in spanish for the moment):
 
-https://github.com/HGalletti/Album-de-figuritas (Simulation with R)
+https://github.com/HGalletti/Album-de-figuritas (A little simulation with R)
 
 https://github.com/HGalletti/Reservas_hoteleras (Data analytics and visualization with Power Bi)
+
+https://github.com/HGalletti/Prestamos-bancarios (Data Science Project with Python, Pandas, Sklearn, etc).
 
 ### You can follow me on:
 
