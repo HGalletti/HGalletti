@@ -1,7 +1,7 @@
 ### Data Scientist
 Hello! I'm Hernán, a data scientist with solid foundations in mathematics, statistics and computing. I graduated in M. Sc. in mathematics and did a few years of a PhD focused on data science.
 Thanks to teaching and research, I have experience in communicating complex concepts to a non-technical audience, and solving problems analytically, two qualities that I consider essential in the role of a data scientist.
-I know how to program in R, Python (Pandas, Numpy, Mathplotlib, Scikit-learn, Seaborn, etc.), at an intermediate level, and I have experience querying SQL databases. I also use Power Bi and Excel at an intermediate level.
+I program in R, Python (Pandas, Numpy, Mathplotlib, Scikit-learn, Seaborn, etc.), at an intermediate level. I also have experience in Power Bi, SQL and Excel database queries.
 
 ### Some projects I am or I have been working on (in spanish for the moment):
 
