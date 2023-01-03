@@ -9,7 +9,7 @@ https://github.com/HGalletti/Album-de-figuritas (A little simulation with R)
 
 https://github.com/HGalletti/Reservas_hoteleras (Data analytics and visualization with Power Bi)
 
-https://github.com/HGalletti/Prestamos-bancarios (Data Science Project with Python, Pandas, Sklearn, etc).
+https://github.com/HGalletti/Prestamos-bancarios (Data Science Project with Python, Pandas, Sklearn, etc) (In progress).
 
 ### You can follow me on:
 
