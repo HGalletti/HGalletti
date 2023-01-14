@@ -13,6 +13,8 @@ https://github.com/HGalletti/Prestamos-bancarios (Data Science Project with Pyth
 
 https://github.com/HGalletti/Bicicletas-Adventure-Works (Data analytics and visualization with Power Bi. A Power BI project from a Udemy course).
 
+https://github.com/HGalletti/Password-Manager (Programming in Python. A simple application to store, view and generate passwords of websites). 
+
 ### You can follow me on:
 
 [Linkedin](https://www.linkedin.com/in/hern%C3%A1n-galletti/)
