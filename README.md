@@ -9,7 +9,7 @@ https://github.com/HGalletti/Album-de-figuritas (A little simulation with R).  (
 
 https:/github.com/HGalletti/Reservas_hoteleras (Data analytics and visualization with Power Bi).  (In spanish for the moment).
 
-https://github.com/HGalletti/SBA-Guaranteed-Loans (Data Science Project with Python, Pandas, Sklearn, etc) (In progress).
+https://github.com/HGalletti/SBA-Guaranteed-Loans (Data Science Project with Python, Pandas, Sklearn, etc).
 
 Coming soon -> (Data analytics and visualization with Power Bi. A Power BI project from a Udemy course).
 
