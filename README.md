@@ -7,7 +7,7 @@ I program in R, Python (Pandas, Numpy, Mathplotlib, Scikit-learn, Seaborn, etc.)
 
 https://github.com/HGalletti/Album-de-figuritas (A little simulation with R).  (In spanish for the moment).
 
-https:/github.com/HGalletti/Reservas_hoteleras (Data analytics and visualization with Power Bi).  (In spanish for the moment).
+https://github.com/HGalletti/Reservas_hoteleras (Data analytics and visualization with Power Bi).  (In spanish for the moment).
 
 https://github.com/HGalletti/SBA-Guaranteed-Loans (Data Science Project with Python, Pandas, Sklearn, etc).
 
