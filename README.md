@@ -11,7 +11,7 @@ https:/github.com/HGalletti/Reservas_hoteleras (Data analytics and visualization
 
 https://github.com/HGalletti/SBA-Guaranteed-Loans (Data Science Project with Python, Pandas, Sklearn, etc).
 
-Coming soon -> (Data analytics and visualization with Power Bi. A Power BI project from a Udemy course).
+https://github.com/HGalletti/Travel-insurance (Data analytics and visualization with Power Bi. A Power BI project with a dataset from a Udemy course).
 
 https://github.com/HGalletti/Password-Manager (Programming in Python. A simple application to store, view and generate passwords of websites). 
 
