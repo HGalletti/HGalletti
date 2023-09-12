@@ -7,11 +7,13 @@ I program in R, Python (Pandas, Numpy, Mathplotlib, Scikit-learn, Seaborn, etc.)
 
 https://github.com/HGalletti/Reservas_hoteleras (Data analytics and visualization with Power Bi).  (In spanish for the moment).
 
-https://github.com/HGalletti/SBA-Guaranteed-Loans (A very detailed data science project, developed with Python, Pandas, Sklearn, etc).
+https://github.com/HGalletti/SBA-Guaranteed-Loans (Data science project, with a very detailed EDA. Developed with Python, Pandas, Sklearn, etc).
 
 https://github.com/HGalletti/Travel-insurance (Data analytics and visualization with Power Bi. A Power BI project with a dataset from a Udemy course).
 
 https://github.com/HGalletti/Password-Manager (Programming in Python. A simple application to store, view and generate passwords of websites). 
+
+https://github.com/HGalletti/CancerDetection/ (A short Data science project. Developed with Python, Pandas, Sklearn, TensorFlow. Evaluating some models, including a neural network (In Progress).
 
 ### You can follow me on:
 
