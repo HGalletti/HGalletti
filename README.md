@@ -5,8 +5,6 @@ I program in R, Python (Pandas, Numpy, Mathplotlib, Scikit-learn, Seaborn, etc.)
 
 ### Some projects I am or I have been working on:
 
-https://github.com/HGalletti/Album-de-figuritas (A little simulation with R).  (In spanish for the moment).
-
 https://github.com/HGalletti/Reservas_hoteleras (Data analytics and visualization with Power Bi).  (In spanish for the moment).
 
 https://github.com/HGalletti/SBA-Guaranteed-Loans (A very detailed data science project, developed with Python, Pandas, Sklearn, etc).
