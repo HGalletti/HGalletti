@@ -13,7 +13,7 @@ https://github.com/HGalletti/Travel-insurance (Data analytics and visualization 
 
 https://github.com/HGalletti/Password-Manager (Programming in Python. A simple application to store, view and generate passwords of websites). 
 
-https://github.com/HGalletti/CancerDetection/ (A short Data science project. Developed with Python, Pandas, Sklearn, TensorFlow. Evaluating some models, including a neural network (In Progress).
+https://github.com/HGalletti/CancerDetection/ (A short Data science project. Developed with Python, Pandas, Sklearn, TensorFlow. Evaluating some models, including a neural network) (In Progress).
 
 ### You can follow me on:
 
