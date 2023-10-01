@@ -1,7 +1,9 @@
 ### Data Scientist
 Hello! I am Hernán, a data scientist with solid foundations in mathematics, statistics and computing. I graduated with a degree in mathematics and completed part of a PhD program in data science.
 
+
 Thanks to my experience in teaching and research, I've developed the ability to communicate complex concepts in an accessible manner for non-technical audiences. Additionally, my analytical approach allows me to tackle problems with effective solutions, two crucial skills in the field of data science.
+
 
 I have experience in programming in R and Python, including libraries like Pandas, Scikit-learn, and TensorFlow. I also have experience with Power BI, SQL (SQL Server, Google Big Query, IBM Db2, among others), and Excel.
 
