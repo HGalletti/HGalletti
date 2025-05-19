@@ -9,6 +9,8 @@ I have experience in:
 - **Languages & Tools:** Python, R, SQL (SQL Server, BigQuery, Db2), Power BI
 - **Libraries:** Pandas, Scikit-learn, Darts, TensorFlow, Matplotlib, Seaborn, etc.
 
+Smart Electoral Assistant: https://github.com/HGalletti/Asistente_electoral - ElectoAI is an AI-powered app using Retrieval-Augmented Generation (RAG) to answer legal and operational questions about the 2025 Buenos Aires (CABA) elections.
+
 ### Some older personal projects (2022–2023)
 
 Based on public datasets (mainly from Kaggle). I'm currently working on adding recent real-world projects.
