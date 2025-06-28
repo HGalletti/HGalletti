@@ -1,15 +1,19 @@
 ### Data Scientist
 
-I’m a data scientist with a solid foundation in mathematics, statistics, and computing. I hold a degree in mathematics and completed part of a PhD program in data science.
+I'm Hernán, a Data Scientist with a solid background in mathematics, statistics, and computing. I hold a degree in mathematics and I'm currently pursuing a master's in Data Science.
 
-Thanks to my experience in research and teaching, I’ve developed strong communication skills, particularly when it comes to explaining complex concepts to non-technical audiences. Combined with a rigorous analytical approach, this allows me to find effective, practical solutions to data-driven problems.
+I have experience in ETL processes, exploratory data analysis, visualization, and developing predictive models. I'm proficient in Python (Pandas, Scikit-learn, LightGBM, TensorFlow), R, SQL, and Power BI. My previous experience in teaching and research has also allowed me to effectively communicate complex ideas to diverse audiences.
+
+I'm excited about applying my skills to tackle challenging problems in data science and machine learning. If you have a project or idea in mind, feel free to contact me at HernanGalletti@gmail.com or send me a direct message here. I'm always open to discussing new and interesting opportunities!
 
 I have experience in:
 
 - **Languages & Tools:** Python, R, SQL (SQL Server, BigQuery, Db2), Power BI
 - **Libraries:** Pandas, Scikit-learn, Darts, TensorFlow, Matplotlib, Seaborn, etc.
 
-Smart Electoral Assistant: https://github.com/HGalletti/Asistente_electoral - ElectoAI is an AI-powered app using Retrieval-Augmented Generation (RAG) to answer legal and operational questions about the 2025 Buenos Aires (CABA) elections.
+**CV Assistant Chatbot:** https://huggingface.co/spaces/HernanGalletti/CV_Hernan_Galletti - An AI-powered chatbot that answers questions about my experience, education, and skills using a Retrieval-Augmented Generation (RAG) pipeline. Deployed on Hugging Face Spaces with Gradio and LangChain. Supports both English and Spanish, and logs user interactions anonymously for analysis.
+
+**Smart Electoral Assistant:** https://github.com/HGalletti/Asistente_electoral - ElectoAI is an AI-powered app using Retrieval-Augmented Generation (RAG) to answer legal and operational questions about the 2025 Buenos Aires (CABA) elections.
 
 ### Some older personal projects (2022–2023)
 
