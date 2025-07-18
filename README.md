@@ -11,6 +11,8 @@ I have experience in:
 - **Languages & Tools:** Python, R, SQL (SQL Server, BigQuery, Db2), Power BI
 - **Libraries:** Pandas, Scikit-learn, Darts, TensorFlow, Matplotlib, Seaborn, etc.
 
+**Forecasting Interest Rate Spreads:** https://github.com/HGalletti/Forecasting-Spread-Treasury-Bonds.git - A time series analysis project focused on predicting the 2Y-10Y interest rate spread. It leverages classic statistical models (ARIMA/SARIMA/SARIMAX) and integrates key market indicators like the VIX and S&P 500 as exogenous variables to enhance forecast accuracy and demonstrate advanced financial time series modeling.
+
 **CV Assistant Chatbot:** https://huggingface.co/spaces/HernanGalletti/CV_Hernan_Galletti - An AI-powered chatbot that answers questions about my experience, education, and skills using a Retrieval-Augmented Generation (RAG) pipeline. Deployed on Hugging Face Spaces with Gradio and LangChain. Supports both English and Spanish, and logs user interactions anonymously for analysis.
 
 **Smart Electoral Assistant:** https://github.com/HGalletti/Asistente_electoral - ElectoAI is an AI-powered app using Retrieval-Augmented Generation (RAG) to answer legal and operational questions about the 2025 Buenos Aires (CABA) elections.
